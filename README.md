@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 ## 🚀 Skills
 - **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Django
